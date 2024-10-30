@@ -1,0 +1,11 @@
+This will also be a daily practice along with each code commit. 
+Basically, a kind of diary of how the day of DSA went and where I need to improve on.
+No one is going to see this anyway, so I will just save it here, instead of locally or on notion etc.,
+
+I did 3 problems today, but 
+
+- I really suck on considering the edge cases and other conditions given in the problem
+- I also do not remember how to check the Time/Space complexity and did not bother with it now.
+- I need to learn how to handle exceptions in Java if I am going to keep solving problems in Java. (out of bounds etc.,)
+- But this is just the first day, lets build on it. Maintain a list of things I need to polish in the next week, after gathering data from the current week and get on with it. 
+- Please be patient, do it everyday and be persistent as hell.
